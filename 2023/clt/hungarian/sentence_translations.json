@@ -1,7 +1,7 @@
 [
  {
   "input": "This is a Galton board. ",
-  "translatedText": "Ez egy Galton tábla. ",
+  "translatedText": "Ez egy Galton-deszka. ",
   "model": "nmt",
   "time_range": [
    0.0,
@@ -10,7 +10,7 @@
  },
  {
   "input": "Maybe you've seen one before, it's a popular demonstration of how, even when a single event is chaotic and random, with an effectively unknowable outcome, it's still possible to make precise statements about a large number of events, namely how the relative proportions for many different outcomes are distributed. ",
-  "translatedText": "Talán láttál már ilyet, ez egy népszerű demonstrációja annak, hogy még akkor is, ha egyetlen esemény kaotikus és véletlenszerű, gyakorlatilag nem ismerhető eredménnyel, még mindig lehetséges nagyszámú eseményről pontos megállapításokat tenni, nevezetesen a relatív arányokat. mert sok különböző eredmény van elosztva. ",
+  "translatedText": "Lehet találkoztál már vele, ez egy népszerű demonstrációja annak, hogy még akkor is, ha egy esemény kaotikus és véletlenszerű, gyakorlatilag megmondhatatlan eredménnyel, még mindig lehetséges nagyszámú eseményről pontos megállapításokat tenni. Nevezetesen, hogy az eredmények arányai milyen eloszlást követnek.",
   "model": "nmt",
   "time_range": [
    2.52,
@@ -19,7 +19,7 @@
  },
  {
   "input": "More specifically, the Galton board illustrates one of the most prominent distributions in all of probability, known as the normal distribution, more colloquially known as a bell curve, and also called a Gaussian distribution. ",
-  "translatedText": "Pontosabban, a Galton-tábla szemlélteti az egyik legszembetűnőbb valószínűségi eloszlást, amelyet normál eloszlásnak, köznyelvben haranggörbének neveznek, és Gauss-eloszlásnak is neveznek. ",
+  "translatedText": "Pontosabban, a Galton-deszka szemlélteti az egyik legjelentősebb valószínűségi eloszlást, amelyet normál eloszlásnak, Gauss-eloszlásnak, vagy köznyelvben haranggörbének neveznek",
   "model": "nmt",
   "time_range": [
    20.38,
@@ -28,7 +28,7 @@
  },
  {
   "input": "There's a very specific function to describe this distribution, it's very pretty, we'll get into it later, but right now I just want to emphasize how the normal distribution is, as the name suggests, very common, it shows up in a lot of seemingly unrelated contexts. ",
-  "translatedText": "Van egy nagyon specifikus függvény ennek az eloszlásnak a leírására, nagyon szép, később kitérünk rá, de most csak azt szeretném hangsúlyozni, hogy a normál eloszlás, ahogy a neve is sugallja, nagyon gyakori, sok helyen megjelenik. látszólag nem kapcsolódó összefüggések. ",
+  "translatedText": "Van egy nagyon specifikus függvény ennek az eloszlásnak a leírására, nagyon formás, később belemegyünk, de most csak azt szeretném hangsúlyozni, hogy a normális eloszlás, ahogy a neve is mutatja, nagyon gyakori, sok látszólag egymástól független kontextusban felbukkan.",
   "model": "nmt",
   "time_range": [
    32.5,
@@ -136,7 +136,7 @@
  },
  {
   "input": "And for those of you who are inclined to complain that this is a highly unrealistic model for the true Galton board, let me emphasize the goal right now is not to accurately model physics. ",
-  "translatedText": "És azoknak, akik hajlamosak panaszkodni, hogy ez egy rendkívül irreális modell az igazi Galton-táblához, hadd hangsúlyozzam, hogy most nem a fizika pontos modellezése a cél. ",
+  "translatedText": "És azoknak, akik hajlamosak panaszkodni, hogy ez egy rendkívül irreális modell az igazi Galton-deszkahoz, hadd hangsúlyozzam, hogy most nem a fizika pontos modellezése a cél. ",
   "model": "nmt",
   "time_range": [
    173.05,
@@ -1864,7 +1864,7 @@
  },
  {
   "input": "One situation where these assumptions are decidedly not true would be the Galton board. ",
-  "translatedText": "Az egyik olyan helyzet, amikor ezek a feltételezések határozottan nem igazak, az a Galton-tábla. ",
+  "translatedText": "Az egyik olyan helyzet, amikor ezek a feltételezések határozottan nem igazak, az a Galton-deszka. ",
   "model": "nmt",
   "time_range": [
    1730.53,
